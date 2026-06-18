@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Quantum Game of Life",
+  "universe": "QCA · The Quantum Game of Life (QUANTUM CELLULAR AUTOMATA)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Quantum Game of Life:QCA:1bdbb4⟧",
+  "carbon": "the-quantum-game-of-life.carbon.tiff (TIFF)",
+  "silicon": "the-quantum-game-of-life.silicon.png (PNG)",
+  "seal_sha256": "41ab2692fbcb0563abde72f97cbf54155222e41e1a97ce7e44c5f76b56146f30",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

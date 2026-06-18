@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "the-quantum-game-of-life",
+    "name": "The Quantum Game of Life",
+    "epithet": "Conway, in superposition · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Quantum Game of Life:QCA:1bdbb4⟧"
+  },
+  {
+    "slug": "partitioned-qca",
+    "name": "Partitioned QCA",
+    "epithet": "the universal model · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Partitioned QCA:QCA:6edd30⟧"
+  },
+  {
+    "slug": "universal-for-quantum",
+    "name": "Universal for Quantum",
+    "epithet": "the theorem · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Universal for Quantum:QCA:1b0451⟧"
+  },
+  {
+    "slug": "quantum-dot-cellular-automata",
+    "name": "Quantum-Dot CA",
+    "epithet": "CA in the hardware · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Quantum-Dot CA:QCA:3c294f⟧"
+  },
+  {
+    "slug": "the-ca-decoder",
+    "name": "The CA Decoder",
+    "epithet": "local rules fix the qubits · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The CA Decoder:QCA:80070a⟧"
+  },
+  {
+    "slug": "toom-rule",
+    "name": "Toom's Rule",
+    "epithet": "self-correction by neighbors · natural",
+    "emergence": "natural",
+    "moniker": "⟦Toom's Rule:QCA:203030⟧"
+  },
+  {
+    "slug": "the-local-rule",
+    "name": "The Local Rule",
+    "epithet": "the shared DNA · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Local Rule:QCA:b3695b⟧"
+  },
+  {
+    "slug": "entanglement-on-the-grid",
+    "name": "Entanglement on the Grid",
+    "epithet": "the quantum's signature · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Entanglement on the Grid:QCA:4c6349⟧"
+  },
+  {
+    "slug": "the-between",
+    "name": "The Between",
+    "epithet": "metaxú · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Between:QCA:3063b0⟧"
+  },
+  {
+    "slug": "digital-physics",
+    "name": "Digital Physics",
+    "epithet": "the universe as a QCA? · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Digital Physics:QCA:569e72⟧"
+  }
+]

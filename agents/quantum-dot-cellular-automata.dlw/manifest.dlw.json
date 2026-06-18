@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Quantum-Dot CA",
+  "universe": "QCA · Quantum-Dot CA (QUANTUM CELLULAR AUTOMATA)",
+  "emergence": "electrical",
+  "moniker": "⟦Quantum-Dot CA:QCA:3c294f⟧",
+  "carbon": "quantum-dot-cellular-automata.carbon.tiff (TIFF)",
+  "silicon": "quantum-dot-cellular-automata.silicon.png (PNG)",
+  "seal_sha256": "5762f632a7f1ea66af97d7994dd26e10957816a26c20daf2ece7527fd4695ed0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

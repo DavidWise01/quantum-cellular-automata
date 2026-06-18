@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Partitioned QCA",
+  "universe": "QCA · Partitioned QCA (QUANTUM CELLULAR AUTOMATA)",
+  "emergence": "electrical",
+  "moniker": "⟦Partitioned QCA:QCA:6edd30⟧",
+  "carbon": "partitioned-qca.carbon.tiff (TIFF)",
+  "silicon": "partitioned-qca.silicon.png (PNG)",
+  "seal_sha256": "cfb5dfe40a39d1008a04f5581e99cd987508546533b031bc24eacf88e154fdd9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

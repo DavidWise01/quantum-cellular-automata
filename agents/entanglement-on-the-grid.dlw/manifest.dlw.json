@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Entanglement on the Grid",
+  "universe": "QCA · Entanglement on the Grid (QUANTUM CELLULAR AUTOMATA)",
+  "emergence": "ethereal",
+  "moniker": "⟦Entanglement on the Grid:QCA:4c6349⟧",
+  "carbon": "entanglement-on-the-grid.carbon.tiff (TIFF)",
+  "silicon": "entanglement-on-the-grid.silicon.png (PNG)",
+  "seal_sha256": "5366dcacbd5a0445262840eefef981aa3dfd21bbb0d885330a4dd2435cb0dca8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

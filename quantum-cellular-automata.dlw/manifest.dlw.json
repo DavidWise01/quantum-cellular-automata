@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "QUANTUM CELLULAR AUTOMATA",
+  "universe": "QUANTUM CELLULAR AUTOMATA · QCA · METAXÝ · the between",
+  "emergence": "",
+  "moniker": "⟦QUANTUM CELLULAR AUTOMATA:QCA:d79ce6⟧",
+  "carbon": "quantum-cellular-automata.carbon.tiff (TIFF)",
+  "silicon": "quantum-cellular-automata.silicon.png (PNG)",
+  "seal_sha256": "3688686b5368730f25623c298676a6dcaf1addd23e98934676689764ffb2b935",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

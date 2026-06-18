@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Digital Physics",
+  "universe": "QCA · Digital Physics (QUANTUM CELLULAR AUTOMATA)",
+  "emergence": "ethereal",
+  "moniker": "⟦Digital Physics:QCA:569e72⟧",
+  "carbon": "digital-physics.carbon.tiff (TIFF)",
+  "silicon": "digital-physics.silicon.png (PNG)",
+  "seal_sha256": "67fe0b8d0786bc53273a3ac8c7c49dba05d32f4b461c500a0e7c9282d9c13797",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

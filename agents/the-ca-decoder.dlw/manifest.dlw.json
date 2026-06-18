@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The CA Decoder",
+  "universe": "QCA · The CA Decoder (QUANTUM CELLULAR AUTOMATA)",
+  "emergence": "electrical",
+  "moniker": "⟦The CA Decoder:QCA:80070a⟧",
+  "carbon": "the-ca-decoder.carbon.tiff (TIFF)",
+  "silicon": "the-ca-decoder.silicon.png (PNG)",
+  "seal_sha256": "c227c4cf30a8bbb0423bcec35f096e1dbe9b6dbad2902f4167e47925f3d513b2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
