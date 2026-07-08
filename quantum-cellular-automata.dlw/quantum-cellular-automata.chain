@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 761
+slug  : quantum-cellular-automata
+seal  : 3688686b5368730f25623c298676a6dcaf1addd23e98934676689764ffb2b935
+prev  : 758dfc9a2cbae2439f8ff3e45dcc82dbc2398163946598abb5307ea0cfd3ad97
+link  : 3dd0bdd2b2ff18d0ce0a8f8d83c5ba941729a74ef91f05afac626d01b48e477f
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
